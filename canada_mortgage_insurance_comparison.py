@@ -2,7 +2,7 @@
 
 # NOTE: this calculator was created in 2023 based on mortgage insurance rules
 # in place at that time. It has not been updated since then. It is possible
-# that rules, rates, etc. have changed since then, in which case the
+# that rules, tax rates, etc. have changed since then, in which case the
 # calculator may no longer be accurate.
 
 # Imports:

@@ -1,6 +1,6 @@
 Copyright (c) 2023-2026 Samuel Plamondon
 
-NOTE: this calculator was created in 2023 based on mortgage insurance rules in place at that time. It has not been updated since then. It is possible that rules, rates, etc. have changed since then, in which case the calculator may no longer be accurate.
+NOTE: this calculator was created in 2023 based on mortgage insurance rules in place at that time. It has not been updated since then. It is possible that rules, tax rates, etc. have changed since then, in which case the calculator may no longer be accurate.
 
 This calculator compares the cost over the life of a fixed-rate mortgage loan either (a) with or (b) without CMHC (or equivalent) mortgage insurance. Usually, when you are paying 20% or more of the purchase price as a down payment, it will be financially advantageous to take an uninsured mortgage. The difference in rates does not make up for the extra cost of mortgage insurance. However, consider the following scenario:
 
